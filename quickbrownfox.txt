@@ -7,4 +7,5 @@ Over
 The 
 Lazy
 Dog
-This sentence contains all english alphabets
+This sentence contains all english alphabets. 
+This sentence is used in most typing tests and the unicorn. 
